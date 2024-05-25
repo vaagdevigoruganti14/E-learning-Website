@@ -1,2 +1,2 @@
 # portfoliopart2
-A Personalized portfolio 
+A Personalized and interactive portfolio giving a seamless navigation.
